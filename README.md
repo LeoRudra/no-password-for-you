@@ -3,6 +3,7 @@
 </kbd>
 <h1 align="center">No Password For You</h1>
 <p align="center">No password for you is a lightweight, fast and open-source custom secure password generator written in java</p>
+<p align="center">This branch is going to be deprecated</p>
 
 
 <h1 align="center"<br /><a href='https://github.com/RudraOp9/no-password-for-you/blob/master/Samples.md'>Samples</h1>
